@@ -41,6 +41,7 @@ def get(url: str, **kwargs) -> Optional[requests.Response]:
     cfg = settings()["http"]
     headers = kwargs.pop("headers", {})
     headers.setdefault("User-Agent", cfg["user_agent"])
+    timeout = kwargs.pop("timeout", cfg["timeout_seconds"])
 
     for attempt in range(cfg["max_retries"] + 1):
         _respect_delay(url)
@@ -48,7 +49,7 @@ def get(url: str, **kwargs) -> Optional[requests.Response]:
             resp = requests.get(
                 url,
                 headers=headers,
-                timeout=cfg["timeout_seconds"],
+                timeout=timeout,
                 allow_redirects=True,
                 **kwargs,
             )
