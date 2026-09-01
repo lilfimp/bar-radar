@@ -7,20 +7,20 @@ af039aeb85bea457,39 Bar,Berlin,"Oranienstraße 39, 10999 Berlin",,,,1,overpass_o
 13fc6e491fedbbb1,Adam's Eck,Berlin,"Germaniastraße 150a, 12099 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:39
 a2a470e8b2545afe,Albert's,Berlin,"Scharnweberstraße 16, 13405 Berlin",https://www.alberts-restaurants.de/,https://www.alberts-restaurants.de/cocktails,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-01 16:37:04
 55cc5c22ca13d23a,Alcatraz,Berlin,"Wilsnacker Straße 30, 10559 Berlin",,,,1,overpass_osm,,
-feb6c2f4e700d831,Alois S.,Berlin,"Senefelderstraße 18, 10437 Berlin",https://www.aloiss.de/,,,1,overpass_osm,,
-fee4da8926b641f8,Alte Wäscherei,Berlin,"Naugarder Straße 11, 10409 Berlin",http://altewäscherei.de/,,,1,overpass_osm,,
+feb6c2f4e700d831,Alois S.,Berlin,"Senefelderstraße 18, 10437 Berlin",https://www.aloiss.de/,https://www.aloiss.de/speisekarte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:46:17
+fee4da8926b641f8,Alte Wäscherei,Berlin,"Naugarder Straße 11, 10409 Berlin",http://altewäscherei.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:47:33
 e483602c24bcda37,Alter Roter Löwe Rein,Berlin,"Richardstraße 31, 12043 Berlin",https://redlion.berlin/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:28:31
 21b48266725dfddf,Am Klinikum,Berlin,"Hindenburgdamm 93, 12203 Berlin",,,,1,overpass_osm,,
 31ca7fa6e7fbdcda,Am Park,Berlin,"Ottostraße 9, 10555 Berlin",,,,1,overpass_osm,,
-3e27c28027bcd7b8,August Fengler,Berlin,"Lychener Straße 11, 10437 Berlin",https://www.augustfengler.de/,,,1,overpass_osm,,
+3e27c28027bcd7b8,August Fengler,Berlin,"Lychener Straße 11, 10437 Berlin",https://www.augustfengler.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:50:40
 d55d4fc7639ab47f,Auguste,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:23:23
-aca02eff77f16ee5,Avalon,Berlin,"Jessnerstraße 16, 10247 Berlin",,,,1,overpass_osm,,
+aca02eff77f16ee5,Avalon,Berlin,"Jessnerstraße 16, 10247 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:13
 7d6e6d82b372aa85,Bandito Rosso,Berlin,"Lottumstraße 10a, 10119 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:24:05
 22502447d8edc2cf,Bar 11,Berlin,"Wiener Straße 21, 10999 Berlin",,,,1,overpass_osm,,
 e36648357d289f98,Bar Amelie,Berlin,"Auguststraße 2, 10117 Berlin",http://lolas-bar.de/,,,1,overpass_osm,,
 11ba97a4b75669ca,Bar Carlitos,Berlin,"Sybelstraße 16, 10629 Berlin",http://www.bar-carlitos.de,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:27:36
-f15d22a606369835,Bar Fabrik,Berlin,"Alt-Tegel 27, 13507 Berlin",https://barfabrik.de/,,,1,overpass_osm,,
-8ff4df80e47c5d0c,Bar Misirlou,Berlin,"Dunckerstraße 10, 10437 Berlin",,,,1,overpass_osm,,
+f15d22a606369835,Bar Fabrik,Berlin,"Alt-Tegel 27, 13507 Berlin",https://barfabrik.de/,https://barfabrik.de/#!/getraenkekarte,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-01 18:48:03
+8ff4df80e47c5d0c,Bar Misirlou,Berlin,"Dunckerstraße 10, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:47:20
 9f72091078e344d3,Bar Voyage,Berlin,"Nollendorfstraße 1, 10783 Berlin",https://www.barvoyage.de/,https://www.barvoyage.de/getränkekarte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:23:36
 666a88293805e115,Bar im Wasserturm,Berlin,"Waldowstraße 20, 13053 Berlin",http://www.berlin-wasserturm.de/,https://www.berlin-wasserturm.de/getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-01 16:41:33
 90a7de7b12f9cf25,Baude 38,Berlin,"Nassauische Straße 38, 10717 Berlin",,,,1,overpass_osm,,
@@ -29,7 +29,7 @@ aef3b79eafb8c0d6,Bei Schlawinchen,Berlin,"Schönleinstraße 34, 10967 Berlin",,,
 7f58f35cadfc172a,Bellboy Berlin,Berlin,"Anton-Wilhelm-Amo-Straße 30, 10117 Berlin",https://bellboybar.com/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:37:17
 df5e572b4603b295,Berliner Bier-Akademie,Berlin,"Fürther Straße 8, 10777 Berlin",,,,1,overpass_osm,,
 18632b3265201c0f,Berliner Bürgerstuben,Berlin,"Stargarder Straße 64, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:23:21
-70054e1103d18ae9,Besenkammer,Berlin,"Rathausstraße 1, 10178 Berlin",,,,1,overpass_osm,,
+70054e1103d18ae9,Besenkammer,Berlin,"Rathausstraße 1, 10178 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:32
 92be8e291c03eb3f,Beussel 71,Berlin,"Beusselstraße 71, 10553 Berlin",,,,1,overpass_osm,,
 2141b20adb6d8387,Bier Stübl,Berlin,"Mariendorfer Damm 86, 12109 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:32
 f0fd1417f116be95,Bierbaum 1,Berlin,"Thomasstraße 9, 12053 Berlin",,,,1,overpass_osm,,
@@ -44,41 +44,41 @@ f792862efff8cd93,Billard Company Salon Treptow,Berlin,"Bouchéstraße 12, 12435 
 9b909896fa1626bb,Billardsalon Köh,Berlin,"Sophienstraße 6, 10178 Berlin",http://www.billardkoeh.de,https://billardkoeh.de/wp-content/uploads/2021/01/postkarte-heilig.jpg,IMAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-01 16:42:09
 c8a51ed453a3f41e,Birgit's Pub,Berlin,"Fritschestraße 29, 10585 Berlin",http://www.birgits-pub.de,,,1,overpass_osm,,
 88956d22c187c55e,Birkeneck,Berlin,"Charlottenbrunner Straße 12, 14193 Berlin",,,,1,overpass_osm,,
-e24319701e0a5fbf,Bistro Melody,Berlin,"Goebelstraße 113, 13627 Berlin",http://bistromelody.blogspot.com/,,,1,overpass_osm,,
-288c434ed60edc34,Bistro Nord,Berlin,"Schönwalder Straße 30, 13347 Berlin",,,,1,overpass_osm,,
+e24319701e0a5fbf,Bistro Melody,Berlin,"Goebelstraße 113, 13627 Berlin",http://bistromelody.blogspot.com/,http://bistromelody.blogspot.com/p/getrankekarte.html,HTML_PAGE,1,overpass_osm,POSSIBLE_MENU,2026-09-01 18:50:26
+288c434ed60edc34,Bistro Nord,Berlin,"Schönwalder Straße 30, 13347 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:31
 b009468c9b52a598,Blaumilchkanal,Berlin,"Schivelbeiner Straße 23, 10439 Berlin",https://www.blaumilchkanal.com/,https://www.blaumilchkanal.com/karte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:41:46
-6279e18111fe7d68,Blechbilderbar,Berlin,"Simon-Dach-Straße 35, 10245 Berlin",,,,1,overpass_osm,,
-eeb75491701b7900,Bornholmer Hütte,Berlin,"Bornholmer Straße 89, 10439 Berlin",,,,1,overpass_osm,,
+6279e18111fe7d68,Blechbilderbar,Berlin,"Simon-Dach-Straße 35, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:18
+eeb75491701b7900,Bornholmer Hütte,Berlin,"Bornholmer Straße 89, 10439 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:11
 0e6a0ceff26bb9dc,Britzer Klatsche,Berlin,"Britzer Damm 9, 12347 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:40
 02450b719b6280fe,BrotfabrikKneipe,Berlin,"1, 13086 Berlin",https://www.brotfabrik-berlin.de/kneipe-in-der-brotfabrik/,,,1,overpass_osm,,
 5baaca792c647395,Bräugier,Berlin,"Stubbenkammerstraße 6, 10437 Berlin",https://www.braeugier.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:25:01
 ee0d2b257db1d8d7,By Cengiz,Berlin,"Karl-Marx-Straße 210, 12055 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:29:07
 333c3585b9f8a37c,Bären-Eck,Berlin,"Auguste-Viktoria-Allee 84, 13403 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:45
 fc89ac0422b62096,Bäreneck,Berlin,"Hermannstraße 37, 12049 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:19
-a738de94300ea9d2,Bärenklause,Berlin,"Kirchhainer Damm 10, 12309 Berlin",,,,1,overpass_osm,,
+a738de94300ea9d2,Bärenklause,Berlin,"Kirchhainer Damm 10, 12309 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:26
 03994448293fd5d2,Böse Buben Bar,Berlin,"Marienstraße 18, 10117 Berlin",http://www.boesebubenbar.de,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:44:52
-322f84b7735b46bc,Capital Beach,Berlin,"Ludwig-Erhard-Ufer, 10557 Berlin",,,,1,overpass_osm,,
+322f84b7735b46bc,Capital Beach,Berlin,"Ludwig-Erhard-Ufer, 10557 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:19
 a141ab084d0e8ffe,Caspar,Berlin,"Greifswalder Straße 167, 10409 Berlin",,,,1,overpass_osm,,
-38145c452be93e18,Celo Privat Bar,Berlin,"Ohlauer Straße 37, 10999 Berlin",,,,1,overpass_osm,,
+38145c452be93e18,Celo Privat Bar,Berlin,"Ohlauer Straße 37, 10999 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:12
 70dc97b8083ea6dc,Celtic Cottage Irish Pub,Berlin,"Markelstraße 13, 12163 Berlin",https://www.celtic-cottage.de,,,1,overpass_osm,,
 97a26169fe9b6d08,Charlotte,Berlin,"Charlottenstraße 14a, 13597 Berlin",http://www.cbb-charlotte.de,http://www.cbb-charlotte.de/speisekarte/#cocktails-best-of,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-01 16:39:41
 63535fc3e1092a4f,Chicko,Berlin,,,,,1,overpass_osm,,
 5feebba39172d6fb,Chila X,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:25:53
 a23d4c0cc0558f7c,ChillOut Bar,Berlin,"General-Barby-Straße 25, 13403 Berlin",http://www.chillout-berlin.de/,http://www.chillout-berlin.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:37:45
-f0ae60a52296a084,Clash,Berlin,"Gneisenaustraße 2, 10961 Berlin",https://clash-berlin.de/,,,1,overpass_osm,,
+f0ae60a52296a084,Clash,Berlin,"Gneisenaustraße 2, 10961 Berlin",https://clash-berlin.de/,https://clash-berlin.de/#karte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:46:31
 e34cf44a207ec8c3,Club der polnischen Versager,Berlin,"Ackerstraße 168, 10115 Berlin",http://www.polnischeversager.de/,,,1,overpass_osm,,
-ffcfefb2eafd1003,Country Cheers,Berlin,"Karl-Marx-Allee 63, 10243 Berlin",,,,1,overpass_osm,,
-60d90376297f443c,Crossroads,Berlin,"Gneiststraße 10, 10437 Berlin",https://crossroadsbarberlin.wordpress.com/,,,1,overpass_osm,,
+ffcfefb2eafd1003,Country Cheers,Berlin,"Karl-Marx-Allee 63, 10243 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:58
+60d90376297f443c,Crossroads,Berlin,"Gneiststraße 10, 10437 Berlin",https://crossroadsbarberlin.wordpress.com/,https://crossroadsbarberlin.wordpress.com/drinks/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:49:30
 cb592ba811484563,Dachkammer,Berlin,"Simon-Dach-Straße 39, 10245 Berlin",http://www.dachkammer.com/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:24:05
 1a5677fe7cb7dd84,Daffke,Berlin,"Herrfurthplatz 7, 12049 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:44:52
-6cbb4326f73b8c9b,Das Bierlokal zum Umsteiger,Berlin,"Hermannstraße 159, 12051 Berlin",https://zumumsteiger.metro.bar,,,1,overpass_osm,,
+6cbb4326f73b8c9b,Das Bierlokal zum Umsteiger,Berlin,"Hermannstraße 159, 12051 Berlin",https://zumumsteiger.metro.bar,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:44:47
 c961f9fa33d3bb12,Deck 5,Berlin,Greifenhagener Straße 47,http://www.freiluftrebellen.de/en/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:43:01
 956a739db80eaa8b,Degendorff,Berlin,"Petersburger Straße 74a, 10249 Berlin",http://www.degendorff.com,,,1,overpass_osm,,
 3c791f0325211e47,Deichgraf,Berlin,"Nordufer 10, 13353 Berlin",https://gaststaette-deichgraf.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:36:50
 8309f5dd9cf567a2,Der Weinlobbyist,Berlin,"Kolonnenstraße 62, 10827 Berlin",https://www.derweinlobbyist.de/,https://www.derweinlobbyist.de/_files/ugd/0b2a5e_7e2d4a735b334f98b83c9fcfb2121106.pdf,PDF,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:25:52
 31896078f56b0304,Derby Klause,Berlin,"Robert-von-Ostertag-Straße 30, 14163 Berlin",https://www.derbyklause.de/,,,1,overpass_osm,,
 ad5da1760caf5073,Dicke Wirtin,Berlin,"Carmerstraße 9, 10623 Berlin",http://www.dicke-wirtin.de/,http://www.dicke-wirtin.de/speisekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-01 16:39:50
-3d3f566c63e4ba39,Die Bar,Berlin,"Greifenhagener Straße 54, 10437 Berlin",http://die-bar-berlins.de/,,,1,overpass_osm,,
+3d3f566c63e4ba39,Die Bar,Berlin,"Greifenhagener Straße 54, 10437 Berlin",http://die-bar-berlins.de/,,NONE,1,overpass_osm,BLOCKED,2026-09-01 18:49:27
 1e4fdf2e2c537878,Die Berliner Republik,Berlin,"Schiffbauerdamm 8, 10117 Berlin",https://www.die-berliner-republik.de/,https://www.die-berliner-republik.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:22:58
 9935bfd4334a5432,Die Wampe,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:23:05
 97748815ce2fc53a,Dietrich,Berlin,"Reichenberger Straße 103, 10999 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:24:06
@@ -86,30 +86,30 @@ ad5da1760caf5073,Dicke Wirtin,Berlin,"Carmerstraße 9, 10623 Berlin",http://www.
 d9bd65539293e82e,Dorfkrug,Berlin,"Otisstraße 40, 13403 Berlin",https://carolas-dorfkrug.beepworld.de,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:51
 304341f2dd812279,Drittes Ohr,Berlin,"Matternstraße 14, 10249 Berlin",https://www.drittes-ohr.eu/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:42:36
 8a4a3d44014ad750,Duckys,Berlin,"Mariendorfer Damm 112, 12109 Berlin",,,,1,overpass_osm,,
-f7040fd79421e7c4,EL FUEGO BAR,Berlin,,,,,1,overpass_osm,,
+f7040fd79421e7c4,EL FUEGO BAR,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:48:16
 fd4558182fff0019,Eberty Treff,Berlin,"Ebertystraße 50, 10249 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:42:23
 c65ebba9f772c219,Eck-Kneipe,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:05
 dbc3884c0c54a446,Edisoneck,Berlin,"Edisonstraße 37, 12459 Berlin",,,,1,overpass_osm,,
 986558532eb19af4,Eichborneck,Berlin,",  Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:05
 1328ef6fcbce6ba7,Eiskristall,Berlin,,,,,1,overpass_osm,,
-c5124af55b7b3118,Else,Berlin,"Kiefholzstraße 33, 12435 Berlin",,,,1,overpass_osm,,
+c5124af55b7b3118,Else,Berlin,"Kiefholzstraße 33, 12435 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:47:02
 fcbdf3b0f92ac215,Enddorn,Berlin,"Belforter Straße 27, 10405 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:38:06
 ab6a51f22ebc7172,Eschschloraque Rümschrümp,Berlin,"Rosenthaler Straße 39, 10178 Berlin",http://www.eschschloraque.de/,,,1,overpass_osm,,
-49c497ae6c59b837,Escobar,Berlin,,,,,1,overpass_osm,,
-36d186294320faa5,Evi's Hansa-Treff,Berlin,"Hansastraße 196, 13088 Berlin",,,,1,overpass_osm,,
+49c497ae6c59b837,Escobar,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:20
+36d186294320faa5,Evi's Hansa-Treff,Berlin,"Hansastraße 196, 13088 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:10
 f49adb3cad43a51b,Exclusive Coffee,Berlin,Zwinglistraße 27,http://www.exclusive-coffee.de,,,1,overpass_osm,,
 12be10b3a9f5d55e,FC Magnet Bar,Berlin,"Veteranenstraße 26, 10119 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:21:58
 55419321b5413381,Falken-Eck,Berlin,,,,,1,overpass_osm,,
 aae38a8c1d834f56,Feuermelder,Berlin,"Krossener Straße 24, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:38
-3fd041b97a4e2916,Fischladen,Berlin,"Rigaer Straße 83, 10247 Berlin",,,,1,overpass_osm,,
+3fd041b97a4e2916,Fischladen,Berlin,"Rigaer Straße 83, 10247 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:46:01
 41479a138dac2a41,Frannz Club,Berlin,"Schönhauser Allee 36, 10435 Berlin",http://www.frannz.de/,,,1,overpass_osm,,
 2c050fcb87a32198,Frau Luna,Berlin,"Paul-Lincke-Ufer 44, 10999 Berlin",https://frauluna-berlin.de/,https://frauluna-berlin.de/pdf/Getraenkekarte.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-01 18:24:10
 374da7a39bd7e602,Freibeuter,Berlin,"Silvio-Meier-Straße 10, 10247 Berlin",,,,1,overpass_osm,,
-bf7e978e01295405,Freya Fuchs,Berlin,"Tegeler Straße 34, 13353 Berlin",,,,1,overpass_osm,,
-0945d4ee6e4fda13,"Froschkönig, Literatur- & Pianobar",Berlin,"Weisestraße 17, 12049 Berlin",,,,1,overpass_osm,,
+bf7e978e01295405,Freya Fuchs,Berlin,"Tegeler Straße 34, 13353 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:47:58
+0945d4ee6e4fda13,"Froschkönig, Literatur- & Pianobar",Berlin,"Weisestraße 17, 12049 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:13
 edc7ffd23db57fee,Fuchsbau,Berlin,"Planufer 96, 10967 Berlin",https://fuchsbaukreuzberg.de/,,,1,overpass_osm,,
 4cc1dd8bd66424fa,Gaststätte Astra,Berlin,"Königsheideweg 280, 12487 Berlin",,,,1,overpass_osm,,
-a7b2e59928b49ec4,General Post Office,Berlin,"Zimmermannstraße 22, 12163 Berlin",https://www.gpo.berlin,,,1,overpass_osm,,
+a7b2e59928b49ec4,General Post Office,Berlin,"Zimmermannstraße 22, 12163 Berlin",https://www.gpo.berlin,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:57
 c9cc7be91e8c5cde,Geronimo,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:04
 f74081d395a5785b,Glühlampe,Berlin,"Lehmbruckstraße 1, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:23:22
 b9c9ff76dc74c85e,Golden Hour Bar,Berlin,"Samariterstraße 17, 10247 Berlin",http://vulcano-bar.de/index.html,,,1,overpass_osm,,
@@ -118,10 +118,10 @@ ed03901af1db8172,Gottlob,Berlin,"Akazienstraße 17, 10823 Berlin",https://www.go
 f844e81d17202e18,Grenzeck,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:46
 4db91abdc9e63ccc,Grenzeck,Berlin,"Neue Hochstraße 10, 13347 Berlin",,,,1,overpass_osm,,
 d433bc148dae7588,Grigri,Berlin,"Paul-Lincke-Ufer 11, 10999 Berlin",http://www.cafe-grigri.de,,NONE,1,overpass_osm,BLOCKED,2026-09-01 18:24:05
-4063d900147e6e65,Gute Laune,Berlin,"Kiefholzstraße 35, 12435 Berlin",,,,1,overpass_osm,,
+4063d900147e6e65,Gute Laune,Berlin,"Kiefholzstraße 35, 12435 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:47:01
 5a69e3587f2821ce,Guter Wille,Berlin,"Rosenallee 1, 12347 Berlin",,,,1,overpass_osm,,
 e8eac0d448d7dbc2,Habel,Berlin,"Hohenzollerndamm 93, 14199 Berlin",,,,1,overpass_osm,,
-993899bc0caeffcf,Hansa Stuben,Berlin,"Treskowstraße 21, 13507 Berlin",,,,1,overpass_osm,,
+993899bc0caeffcf,Hansa Stuben,Berlin,"Treskowstraße 21, 13507 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:47:34
 994c6703a334585e,Haus Bierwerk,Berlin,"Amendestraße 18, 13409 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:47
 e809cee045c027e5,Hausbar,Berlin,"Rykestraße 54, 10405 Berlin",,,,1,overpass_osm,,
 4f9d211647d6e79b,Havanna Bar,Berlin,"Treskowallee 111, 10318 Berlin",https://www.havannabar-berlin.de/,https://www.havannabar-berlin.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:23:20
@@ -133,7 +133,7 @@ d04a74f0a7614af2,Himmelreich,Berlin,"Simon-Dach-Straße 36, 10245 Berlin",https:
 0d554cacaed7fe4b,Hook Bar,Berlin,Pankstraße 15,,,,1,overpass_osm,,
 a357e5e6bb93701a,Hopfenreich,Berlin,"Sorauer Straße 31, 10997 Berlin",http://hopfenreich.de,,,1,overpass_osm,,
 9d5eac3d2cf209d7,Huttenklause,Berlin,"Huttenstraße 23, 10553 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:04
-1d4dcd0e1aba8733,Höschen,Berlin,"Dunckerstraße 9, 10437 Berlin",,,,1,overpass_osm,,
+1d4dcd0e1aba8733,Höschen,Berlin,"Dunckerstraße 9, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:40
 8d7f3d6cd732db35,"Ick koof mir Dave Lombardo, wenn ick reich bin",Berlin,"Zionskirchstraße 34, 10119 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:44:53
 7a61e280febc6fe7,Immertreu,Berlin,"Christburger Straße 6, 10405 Berlin",http://www.bar-immertreu.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:38:53
 a92e71fbd0cc7b56,Joker,Berlin,"Sprengelstraße 25, 13353 Berlin",,,,1,overpass_osm,,
@@ -145,53 +145,53 @@ c2ab00610ee7792b,Kaktus reloaded,Berlin,"Sonnenallee 180, 12059 Berlin",,,NONE,1
 74c6f1addce69c2d,Kapitalist,Berlin,"Oderberger Straße 2, 10435 Berlin",,,,1,overpass_osm,,
 1d9fb1af2b43e90e,Kaputter Heinrich,Berlin,"Rathenower Straße 49, 10559 Berlin",,,,1,overpass_osm,,
 5e3c837a72db8422,Kaulsdorfer Stube,Berlin,"Heinrich-Grüber-Straße 2, 12621 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:24:48
-612bdcd668602097,Keglerheim,Berlin,"Mareschstraße 6, 12055 Berlin",,,,1,overpass_osm,,
+612bdcd668602097,Keglerheim,Berlin,"Mareschstraße 6, 12055 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:44:34
 e8c6f64be53589b4,Keyif,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:05
-30f6cc0bf2e2c734,KiKi,Berlin,"Müllerstraße 113, 13349 Berlin",,,,1,overpass_osm,,
-a9c264b998baa68a,Kilkenny,Berlin,"Am Zwirngraben 17-20, 10178 Berlin",http://www.kilkenny-pub.de/,,,1,overpass_osm,,
+30f6cc0bf2e2c734,KiKi,Berlin,"Müllerstraße 113, 13349 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:44:32
+a9c264b998baa68a,Kilkenny,Berlin,"Am Zwirngraben 17-20, 10178 Berlin",http://www.kilkenny-pub.de/,http://www.kilkenny-pub.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:45:53
 4a2b80946af34be7,Kleinod,Berlin,"Niemetzstraße 24, 12055 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:29:24
 03e9cfd718174a35,KlubHaus14,Berlin,"Wasgenstraße 75, 14129 Berlin",https://haus14.com/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:38:59
-35159df99b234ca9,Kohlenquelle,Berlin,"Kopenhagener Straße 16, 10437 Berlin",,,,1,overpass_osm,,
+35159df99b234ca9,Kohlenquelle,Berlin,"Kopenhagener Straße 16, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:21
 aee289df5ee03ab2,Kornkammer,Berlin,"Raoul-Wallenberg-Straße 42, 12679 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:23:51
 c03c110b23da2641,Krass böser Wolf,Berlin,"Markgrafendamm 36, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:23:04
 8e2636a4f99bca6d,Krüger,Berlin,"Lychener Straße 26, 10437 Berlin",http://krueger-in-berlin.de/,,,1,overpass_osm,,
-144e934321133bb4,Krüger Eck,Berlin,"Weserstraße 12, 10247 Berlin",http://www.krueger-eck.de/,,,1,overpass_osm,,
+144e934321133bb4,Krüger Eck,Berlin,"Weserstraße 12, 10247 Berlin",http://www.krueger-eck.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:47:58
 008a7d0b864749f7,L.U.X,Berlin,"Schlesische Straße 41, 10997 Berlin",http://www.lux-berlin.net/,,,1,overpass_osm,,
 76a8f1c07e098934,La Vida Bar,Berlin,"Sonnenallee 218, 12059 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:18
 e119df5ffca75b87,Laalia,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:38:55
-b6f5023bf6d5270a,Lahn-Eck,Berlin,"Karl-Marx-Straße 241, 12057 Berlin",,,,1,overpass_osm,,
+b6f5023bf6d5270a,Lahn-Eck,Berlin,"Karl-Marx-Straße 241, 12057 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:11
 29228378bed45100,Lass uns Freunde bleiben,Berlin,"Choriner Straße 12, 10119 Berlin",http://www.ruf-mich-nie-wieder-an.de/cafe.html,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:22:35
 8e993474f3d2c9c7,Lauschangriff,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:36
-d9850bad92d46e17,Le Balto,Berlin,"Hobrechtstraße 28, 12047 Berlin",,,,1,overpass_osm,,
+d9850bad92d46e17,Le Balto,Berlin,"Hobrechtstraße 28, 12047 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:33
 72b9eae708f896a4,Le Bar Tabac,Berlin,"Christinenstraße 24, 10119 Berlin",,,,1,overpass_osm,,
 9e5aeb8d3d98c9c2,Lenau-Stuben,Berlin,"Hobrechtstraße 62, 12047 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:40:04
-698b9005749314f7,Liberda,Berlin,,,,,1,overpass_osm,,
-bdbdd90c89c2ba27,Libero,Berlin,"Karl-Lade-Straße 30, 10369 Berlin",,,,1,overpass_osm,,
+698b9005749314f7,Liberda,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:47:33
+bdbdd90c89c2ba27,Libero,Berlin,"Karl-Lade-Straße 30, 10369 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:44:35
 4c50b4a9635586b8,Linus,Berlin,"Hertzbergstraße 32, 12055 Berlin",https://www.cafelinus.de/,https://www.cafelinus.de/getraenkekarte.html,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:29:27
 f1dac93cb11b47ff,Lolly-Pub,Berlin,"Bänschstraße 54, 10247 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:37
-85061d52fec0dd50,Lost my voice,Berlin,"Rosenthaler Straße 1, 10119 Berlin",,,,1,overpass_osm,,
+85061d52fec0dd50,Lost my voice,Berlin,"Rosenthaler Straße 1, 10119 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:27
 03636237f2858ac4,Luna,Berlin,"Cauerstraße 15, 10587 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:40:58
-9f41243e618b9088,Mad Monkey Room,Berlin,"Danziger Straße 1, 10435 Berlin",https://www.mad-monkey.de/,,,1,overpass_osm,,
+9f41243e618b9088,Mad Monkey Room,Berlin,"Danziger Straße 1, 10435 Berlin",https://www.mad-monkey.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:48:15
 564b2abe13307e95,Madonna Bar,Berlin,"Wiener Straße 22, 10999 Berlin",https://www.madonnabar.de,https://www.madonnabar.de/index.php/getraenkekarte/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:24:47
-ef958ba6c7c7b6b2,Mahlower Klause,Berlin,"Weisestraße 63, 12049 Berlin",,,,1,overpass_osm,,
+ef958ba6c7c7b6b2,Mahlower Klause,Berlin,"Weisestraße 63, 12049 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:46:31
 8746e1cecd8c3f44,Manico,Berlin,"Breite Straße 1, 14199 Berlin",,,,1,overpass_osm,,
-579ee9653bf5e736,Manifest Taproom,Berlin,"Oderberger Straße 15, 10435 Berlin",https://manifesttaproom.de/,,,1,overpass_osm,,
-78872f77b33e0238,Marabu Bar,Berlin,"Oppelner Straße 23, 10997 Berlin",http://www.marabu-bar.de/,,,1,overpass_osm,,
+579ee9653bf5e736,Manifest Taproom,Berlin,"Oderberger Straße 15, 10435 Berlin",https://manifesttaproom.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:47:01
+78872f77b33e0238,Marabu Bar,Berlin,"Oppelner Straße 23, 10997 Berlin",http://www.marabu-bar.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:45:34
 7f2b8ceeb7c122c7,Marktbörse,Berlin,"Bruno-Bauer-Straße 2, 12051 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:41
 3e36118ab47d80c0,Mega,Berlin,"Gerichtstraße 57, 13347 Berlin",,,,1,overpass_osm,,
 2df2c2a890828e6b,Mega 3,Berlin,"Wiesenstraße 18, 13357 Berlin",,,,1,overpass_osm,,
 bcbe44cb564562cd,Mein Haus am See,Berlin,"Torstraße 125, 10119 Berlin",https://www.mein-haus-am-see.club/,,,1,overpass_osm,,
 99f8cfcf58f69c4b,Meiner's,Berlin,"Ollenhauerstraße 70, 13403 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:40:57
 81f8182f184b9f2c,Milchbar,Berlin,"Audre-Lorde-Straße 76, 10997 Berlin",,,,1,overpass_osm,,
-d8b351c9bb5c4a79,Mistral,Berlin,"Müllerstraße 90, 13349 Berlin",,,,1,overpass_osm,,
+d8b351c9bb5c4a79,Mistral,Berlin,"Müllerstraße 90, 13349 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:44:31
 21da311bad81b729,Miz Mit Kahvesi,Berlin,,,,,1,overpass_osm,,
 a6fac0adf4f3b575,Mon Ami,Berlin,"Föhrer Straße 7, 13353 Berlin",,,,1,overpass_osm,,
 1102be8fb85d5e53,Monster Ronson's Ichiban Karaoke,Berlin,"Warschauer Straße 34, 10243 Berlin",http://www.karaokemonster.de/,http://www.karaokemonster.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:23:51
-b3cd2bf1f47d2785,Muschi Obermaier,Berlin,"Torstraße 151, 10119 Berlin",http://www.muschiobermaier.de/,,,1,overpass_osm,,
-9c9cdf84b9873796,Mutter,Berlin,"Hohenstaufenstraße 4, 10781 Berlin",,,,1,overpass_osm,,
+b3cd2bf1f47d2785,Muschi Obermaier,Berlin,"Torstraße 151, 10119 Berlin",http://www.muschiobermaier.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:47:46
+9c9cdf84b9873796,Mutter,Berlin,"Hohenstaufenstraße 4, 10781 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:06
 4e427d292c61e2e7,Märkische Bierstuben,Berlin,"Oranienburger Straße 91, 13437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:51
-b3f4744bf326026b,Möbel Olfe,Berlin,"Reichenberger Straße 177, 10999 Berlin",https://www.moebel-olfe.de/,,,1,overpass_osm,,
-015d9aa271fa6ba7,Neue Zukunft Ostkreuz,Berlin,"Alt-Stralau 68, 10245 Berlin",https://neue-zukunft.org/,,,1,overpass_osm,,
+b3f4744bf326026b,Möbel Olfe,Berlin,"Reichenberger Straße 177, 10999 Berlin",https://www.moebel-olfe.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:50:52
+015d9aa271fa6ba7,Neue Zukunft Ostkreuz,Berlin,"Alt-Stralau 68, 10245 Berlin",https://neue-zukunft.org/,https://neue-zukunft.org/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:45:10
 317900759d7fc968,Neuro Bar Adlershof,Berlin,"Rudower Chaussee 14, 12489 Berlin",https://www.airporthotel-berlin-adlershof.de/neuro-bar/,,,1,overpass_osm,,
 1bed6f6a7aae8610,Newton Bar,Berlin,"Charlottenstraße 57, 10117 Berlin",https://www.newton-bar.de/,,NONE,1,overpass_osm,BLOCKED,2026-09-01 16:37:17
 21d5c631bb7f1ed7,No Limit Shishabar,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:18
@@ -220,12 +220,12 @@ c55312fc96115921,Queen's Pub,Berlin,"Hauptstraße 50, 10827 Berlin",,,NONE,1,ove
 6fa75bcc4d9a2d45,Ringbar,Berlin,,https://www.ringbarberlin.de/,https://0fc784-41.myshopify.com/pages/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:28:18
 a6324c3134b7d487,Rixdorfer,Berlin,"Erkstraße 14, 12043 Berlin",http://www.rixdorfer-bierstuben.de,,,1,overpass_osm,,
 03dc5fd7c93cd6e1,Robbys Calypso Bar,Berlin,"Crellestraße 22, 10827 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:25:52
-d87038d3c924c654,Roderich,Berlin,,,,,1,overpass_osm,,
+d87038d3c924c654,Roderich,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:12
 ae3c3eae8388d58d,Roter Rabe,Berlin,"Kottbusser Straße 13, 10999 Berlin",https://www.roter-rabe.berlin/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:29:19
-7c02adbcc3067aab,Rothenburg-Eck,Berlin,"Rothenburgstraße 42, 12163 Berlin",,,,1,overpass_osm,,
+7c02adbcc3067aab,Rothenburg-Eck,Berlin,"Rothenburgstraße 42, 12163 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:22
 005205c4a0fe0daa,Rudower Quelle,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:29:21
 909eeaabe35cd401,Runde Ecke,Berlin,"Britzer Damm 83, 12347 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:37
-0a035dfc73abfa74,SECO Kiezkneipe,Berlin,"Schöneicher Straße 18, 13055 Berlin",,,,1,overpass_osm,,
+0a035dfc73abfa74,SECO Kiezkneipe,Berlin,"Schöneicher Straße 18, 13055 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:09
 136f9c6d016a8aed,Salamas Bar,Berlin,"Niederbarnimstraße 24, 10247 Berlin",http://www.salamas-bar.de,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:39:35
 df525fb654a4df7b,Salon Babette,Berlin,"Karl-Marx-Allee 36, 10178 Berlin",https://www.cafemoskau.com/salon-babette,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:44:13
 6361ab72d8198449,Sandmann,Berlin,"Reuterstraße 7, 12053 Berlin",,,,1,overpass_osm,,
@@ -236,22 +236,22 @@ df525fb654a4df7b,Salon Babette,Berlin,"Karl-Marx-Allee 36, 10178 Berlin",https:/
 3e8bf4d0a9ac6958,Schmitz Katze,Berlin,"Oranienstraße 163, 10969 Berlin",,,,1,overpass_osm,,
 d8774104b0b0d3d7,Schokoladen,Berlin,"Ackerstraße 169, 10115 Berlin",https://schokoladen-mitte.de/,,,1,overpass_osm,,
 eb309f498e8ef82b,Schrösel’s,Berlin,"Köpenicker Straße 171, 12355 Berlin",,,,1,overpass_osm,,
-ce1563ea3a4b9541,Schwarz Sauer,Berlin,"Kastanienallee 13-14, 10435 Berlin",,,,1,overpass_osm,,
+ce1563ea3a4b9541,Schwarz Sauer,Berlin,"Kastanienallee 13-14, 10435 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:57
 8378e9602ce996e9,Schwarze Pumpe,Berlin,"Choriner Straße 76, 10119 Berlin",http://www.schwarzepumpe-berlin.de/,http://www.schwarzepumpe-berlin.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:22:22
 32667d3bbd5802da,Seequell,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:38:59
-b79117c04a20ec70,Sepp Maiers 2raumwohnung,Berlin,"Langhansstraße 19, 13086 Berlin",http://www.seppmaiers2raumwohnung.de,,,1,overpass_osm,,
+b79117c04a20ec70,Sepp Maiers 2raumwohnung,Berlin,"Langhansstraße 19, 13086 Berlin",http://www.seppmaiers2raumwohnung.de,http://www.seppmaiers2raumwohnung.de/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:50:06
 99d08446b832f758,Sieben,Berlin,"Sonntagstraße 7, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:23:52
 4e0db7c04a993a0e,Silverfuture,Berlin,"Weserstraße 206, 12047 Berlin",https://www.silverfuture.net/,,,1,overpass_osm,,
 1c4e87a88c405009,Sisyfass,Berlin,"Wildenbruchstraße 7, 12045 Berlin",,,,1,overpass_osm,,
-250947fbd98fea8d,Slumberland,Berlin,"Goltzstraße 24, 10781 Berlin",,,,1,overpass_osm,,
-70eb6573c6b61992,Society,Berlin,"Stendaler Straße 25, 12627 Berlin",,,,1,overpass_osm,,
+250947fbd98fea8d,Slumberland,Berlin,"Goltzstraße 24, 10781 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:08
+70eb6573c6b61992,Society,Berlin,"Stendaler Straße 25, 12627 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:14
 ba60822925cb18d4,Sohnemann,Berlin,"Niederbarnimstraße 23, 10247 Berlin",https://sohnemann-bar.de/,https://sohnemann-bar.de/sohnemann-bei-cee-cee-originelle-cocktails-im-geist-der-familie/,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:23:03
 188b36c28d89d449,Sophieneck,Berlin,"Große Hamburger Straße 37, 10115 Berlin",https://www.sophieneck-berlin.de,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:43:59
 cca8d40a0c73ba8f,Soulcat,Berlin,"Pannierstraße 53, 12047 Berlin",http://soulcat-berlin.com/,,,1,overpass_osm,,
 2b63eca69d0b0852,Souterrain 29,Berlin,"Waldowstraße 29, 13156 Berlin",https://souterrain-29.de/,,,1,overpass_osm,,
 87f021615067c75d,Spandauer Altstadttreff,Berlin,"Breite Straße 12, 13597 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:35
 3b6617d385762f07,Spandauer Bock,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:41
-80d0bcc82039ccb2,Speiche's Rock- und Blueskneipe,Berlin,"Raumerstraße 39, 10437 Berlin",,,,1,overpass_osm,,
+80d0bcc82039ccb2,Speiche's Rock- und Blueskneipe,Berlin,"Raumerstraße 39, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:30
 cbb64dd061770758,Sportler-Eck,Berlin,"Ernststraße 68, 13509 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:37:17
 89ff47bffcde1e2c,Sportsbar Heinrich's,Berlin,"Bismarckstraße 67, 12157 Berlin",http://www.sportsbar-heinrichs.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:38:59
 b920e113aeb09e2f,Stadtklause,Berlin,"Stresemannstraße 37, 10963 Berlin",https://stadtklause.wordpress.com/,,,1,overpass_osm,,
@@ -264,10 +264,10 @@ ed36f07e6ab4a45c,Supamolly,Berlin,"Jessnerstraße 41, 10247 Berlin",http://www.s
 3bb78d953de763c0,Sux,Berlin,"Weserstraße 55, 12045 Berlin",,,,1,overpass_osm,,
 4d415ae8c4ff86a2,Syndikat,Berlin,"Emser Straße 131, 12051 Berlin",https://syndikatbleibt.noblogs.org/,https://syndikatbleibt.noblogs.org/karte,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:40:04
 0dd6d3e02cc575ee,Süß war gestern,Berlin,"Wühlischstraße 43, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:44:30
-073e8198a61cfb71,Take Off,Berlin,"Konrad-Wolf-Straße 103, 13055 Berlin",,,,1,overpass_osm,,
-e1a6483a84452010,Tante Grete,Berlin,Stargarder Straße 10,,,,1,overpass_osm,,
+073e8198a61cfb71,Take Off,Berlin,"Konrad-Wolf-Straße 103, 13055 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:07
+e1a6483a84452010,Tante Grete,Berlin,Stargarder Straße 10,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:26
 2613eb30fc9abd20,Tante Lisbeth,Berlin,"Muskauer Straße 49, 10997 Berlin",https://www.pyonen.de/tantelisbeth/,,,1,overpass_osm,,
-9ffdc880f7728101,The Double Inn,Berlin,"Wilhelminenhofstraße 89, 12459 Berlin",http://www.drink-irish.de,,,1,overpass_osm,,
+9ffdc880f7728101,The Double Inn,Berlin,"Wilhelminenhofstraße 89, 12459 Berlin",http://www.drink-irish.de,http://www.drink-irish.de/drinks,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-01 18:49:10
 48318bd804179eb1,The Lir,Berlin,"Flensburger Straße 7, 10557 Berlin",https://www.thelir.de/,https://www.thelir.de/fileadmin/thelir/Document/Menu_AUGUST2025.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-01 16:42:01
 36dd5184405e57e5,The Nautilus Lounge,Berlin,"Karl-Marx-Straße 258, 12057 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:34
 453aa63219e296ab,Tiger Karaoke,Berlin,Müllerstraße 6,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:38:54
@@ -277,13 +277,13 @@ f98c493ad5a1e092,Tonart,Berlin,"Sonntagstraße 7, 10245 Berlin",,,NONE,1,overpas
 187d6840ad4e3b71,Treffer Bar,Berlin,"Weitlingstraße 76, 10317 Berlin",,,,1,overpass_osm,,
 ca24dc14c2cebac7,Trespassers,Berlin,"Fehrbelliner Straße 94, 10119 Berlin",,,,1,overpass_osm,,
 4a66107db61c1513,Trinkteufel,Berlin,"Adalbertstraße 18, 10997 Berlin",,,,1,overpass_osm,,
-4f946d48364eae9f,Trixie Bar,Berlin,"Stargarder Straße 13, 10437 Berlin",,,,1,overpass_osm,,
-5f77820a1efcd66d,"Trude, Ruth und Goldammer",Berlin,"Flughafenstraße 38, 12053 Berlin",https://www.ruthgoldammer.de/,,,1,overpass_osm,,
+4f946d48364eae9f,Trixie Bar,Berlin,"Stargarder Straße 13, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:27
+5f77820a1efcd66d,"Trude, Ruth und Goldammer",Berlin,"Flughafenstraße 38, 12053 Berlin",https://www.ruthgoldammer.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:47:20
 c709eeaef90a2f86,Trödler,Berlin,"Dresdener Straße 123, 10999 Berlin",,,,1,overpass_osm,,
-6b08efca61d1fea6,U-Bahn-Quelle,Berlin,,,,,1,overpass_osm,,
+6b08efca61d1fea6,U-Bahn-Quelle,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:11
 440c3ad45ce6519c,USCHI nation,Berlin,,,,,1,overpass_osm,,
 da5ffdd048bd0f80,Uluru Resort,Berlin,"Rykestraße 17, 10405 Berlin",http://www.uluru-resort.de/,,,1,overpass_osm,,
-68c9b58a7c5c2678,Valla Vino,Berlin,"Lychener Straße 3, 10437 Berlin",,,,1,overpass_osm,,
+68c9b58a7c5c2678,Valla Vino,Berlin,"Lychener Straße 3, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:50:12
 2bf6d8503bc717ae,Vereinsheim Ostelbien II,Berlin,"Koppelweg 56, 12347 Berlin",,,,1,overpass_osm,,
 1528f055a009f39b,Vereinsheim Roseneck,Berlin,"Koppelweg 54, 12347 Berlin",,,,1,overpass_osm,,
 a5296c6b176c07f4,Vettern Bar,Berlin,"Hobrechtstraße 61, 12047 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:40:05
@@ -291,24 +291,24 @@ a5296c6b176c07f4,Vettern Bar,Berlin,"Hobrechtstraße 61, 12047 Berlin",,,NONE,1,
 eedac532b02140e9,Vincent Piano Bar,Berlin,"Schiffbauerdamm 6, 10117 Berlin",http://vincent-bar.de/hauptseite/,https://vincent-bar.de/wp-content/uploads/sites/2/2026/01/vincent-getraenkekarte-januar-2026-2-1.pdf,PDF,1,overpass_osm,VALID_MENU,2026-09-01 16:44:39
 3d1941a1974c35f4,Wackelkontakt,Berlin,"Hermann-Hesse-Straße 26, 13156 Berlin",,,,1,overpass_osm,,
 07a9c6e510e0b211,Walther Bar,Berlin,"Rheinstraße 40, 12161 Berlin",,,,1,overpass_osm,,
-c1608ab9e2310e90,Warthe-Eck,Berlin,"Hermannstraße 95, 12051 Berlin",,,,1,overpass_osm,,
+c1608ab9e2310e90,Warthe-Eck,Berlin,"Hermannstraße 95, 12051 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:16
 c3b2586ede596e09,Wax On,Berlin,"Weserstraße 208, 12047 Berlin",,,,1,overpass_osm,,
 3a787b60c80da172,Weinerei Forum,Berlin,"Fehrbelliner Straße 57, 10119 Berlin",http://weinerei.com/forum/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:44:30
 03e4e5051611e6f4,Weiße Taube,Berlin,"Wiener Straße 15, 10999 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:24:10
-72a7ad0e8a1e6041,Wendel,Berlin,"Schlesische Straße 42,  Berlin",http://www.wendel.nstp.de/,,,1,overpass_osm,,
+72a7ad0e8a1e6041,Wendel,Berlin,"Schlesische Straße 42,  Berlin",http://www.wendel.nstp.de/,http://www.wendel.nstp.de/karte/2021/2021-wendel-Karte.html,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:49:26
 19be1b19830c2f5c,Westend-Klause,Berlin,"Reichsstraße 80b, 14052 Berlin",https://www.westend-klause.de,,,1,overpass_osm,,
 19917598022a6419,Wiener Blut,Berlin,"Wiener Straße 14, 10999 Berlin",https://www.wienerblut.org/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:24:22
-3bb42cf5f7d7fc0f,Wikinger Eck,Berlin,"Wikingerufer 6a, 10555 Berlin",,,,1,overpass_osm,,
+3bb42cf5f7d7fc0f,Wikinger Eck,Berlin,"Wikingerufer 6a, 10555 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:49:10
 7d2b398ff3703fd5,Wirtshaus Wuppke,Berlin,"Schlüterstraße 21, 10625 Berlin",http://www.wirtshaus-wuppke.de/,,,1,overpass_osm,,
 63e59ed0d90581cb,Würgeengel,Berlin,"Dresdener Straße 122, 10999 Berlin",http://www.wuergeengel.de/,,,1,overpass_osm,,
 aef90ddc466920c7,X-Bar,Berlin,"Raumerstraße 17, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:24:49
 caa3119dfdd9cd52,Yard,Berlin,"Rykestraße 8, 10405 Berlin",http://www.yard-musikkneipe.de/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:38:06
-ece206b84e31ba61,Yolanda,Berlin,"Senefelderstraße 27, 10437 Berlin",,,,1,overpass_osm,,
+ece206b84e31ba61,Yolanda,Berlin,"Senefelderstraße 27, 10437 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:46:02
 3fdb1bdf98db6fa0,Ysy,Berlin,,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:35
 a4282292b45957c1,Z-Bar,Berlin,"Bergstraße 2, 10115 Berlin",https://zbarberlin.com,https://zbarberlin.com/getraenkekarte/,HTML_PAGE,1,overpass_osm,VALID_MENU,2026-09-01 16:37:54
 0cdc8c548f5b67e6,ZGK,Berlin,"Scharnweberstraße 38, 10247 Berlin",http://www.myspace.com/scharni38,http://www.myspace.com/menu,HTML_PAGE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:26:50
 235cc5d359ab8e99,Zacka's Kneipchen,Berlin,"Rummelsburger Straße 78, 10315 Berlin",,,,1,overpass_osm,,
-bb4a438821d5c2d2,Zart,Berlin,"Schinkestraße 14, 12047 Berlin",,,,1,overpass_osm,,
+bb4a438821d5c2d2,Zart,Berlin,"Schinkestraße 14, 12047 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:59
 30940caccbe13a3a,Zaza,Berlin,"Kastanienallee 12, 10435 Berlin",https://www.zaza-bar.de/,,,1,overpass_osm,,
 55a326e8a5263084,Zeitgeist,Berlin,"Gärtnerstraße 15, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:39
 adec3301bd04b8dc,Zimt und Zunder,Berlin,"Dolziger Straße 24, 10247 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:29:22
@@ -326,14 +326,14 @@ c71157585f07bbad,Zum Friedrichshainer,Berlin,"Petersburger Straße 44, 10249 Ber
 b8e4f48a4ac36a96,Zum Fäßchen,Berlin,"Prenzlauer Promenade 187, 13189 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:28:36
 d07f98d85d646a8c,Zum Gesundbrunner,Berlin,"Rügener Straße 6, 13355 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:29:20
 a1b427221e3c5d72,Zum Goldenen Hahn,Berlin,"Oranienstraße 14a, 10999 Berlin",,,,1,overpass_osm,,
-f0facef97da45d22,Zum Igel,Berlin,"Scharnweberstraße 1, 10247 Berlin",,,,1,overpass_osm,,
+f0facef97da45d22,Zum Igel,Berlin,"Scharnweberstraße 1, 10247 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:46:00
 06ea0fb7ab52a917,Zum Kegel,Berlin,"Grußdorfstraße 1, 13507 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:42:21
 e774dea3247d6cc1,Zum Leibarzt,Berlin,"Cotheniusstraße 11, 10407 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:43:59
-e04b26238d2f4336,Zum Magendoktor,Berlin,"Mareschstraße 19, 12055 Berlin",,,,1,overpass_osm,,
+e04b26238d2f4336,Zum Magendoktor,Berlin,"Mareschstraße 19, 12055 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:44:33
 7d46970e806b1576,Zum Schinken,Berlin,"Luxemburger Straße 5, 13353 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:24:47
-cc8f9090753159bd,Zum Tönnchen,Berlin,"Sonnenallee 141, 12059 Berlin",,,,1,overpass_osm,,
-e1e9f4cabe8ee2f1,Zum böhmischen Dorf,Berlin,"Sanderstraße 11, 12047 Berlin",http://www.zumböhmischendorf.de/,,,1,overpass_osm,,
-3ad137102d76d8d5,Zum guten Happen,Berlin,"Türrschmidtstraße 20, 10317 Berlin",,,,1,overpass_osm,,
+cc8f9090753159bd,Zum Tönnchen,Berlin,"Sonnenallee 141, 12059 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:17
+e1e9f4cabe8ee2f1,Zum böhmischen Dorf,Berlin,"Sanderstraße 11, 12047 Berlin",http://www.zumböhmischendorf.de/,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:46:00
+3ad137102d76d8d5,Zum guten Happen,Berlin,"Türrschmidtstraße 20, 10317 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:45:15
 b1ff306bc6510ef6,Zur Tulpe,Berlin,"Bundesallee 119, 12161 Berlin",,,,1,overpass_osm,,
 5ae315c33d16a6e9,Zur weißen Kastanie,Berlin,"Schloßstraße 22, 14059 Berlin",http://www.kastanie-berlin.de/,,,1,overpass_osm,,
 0bca9a0d2c90699a,booze bar berlin,Berlin,"Boxhagener Straße 105, 10245 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:39:43
@@ -344,7 +344,7 @@ dc1109c9012e1390,erika & hilde,Berlin,Weigandufer 9,,,,1,overpass_osm,,
 0b59dffcdf8d1521,gainsbourg bar américain,Berlin,"Jeanne-Mammen-Bogen 5, 10623 Berlin",http://www.gainsbourg.de/,,,1,overpass_osm,,
 7b12ea3be737cb93,loge.,Berlin,"Kinzigstraße 9, 10247 Berlin",https://www.loge-berlin.org/,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 16:40:18
 952aff91d2b251bd,macke prinz,Berlin,"Zionskirchstraße 39, 10119 Berlin",,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 16:43:02
-f12ea2417a6cdb4d,meliá tapas,Berlin,Friedrichstraße 103,,,,1,overpass_osm,,
+f12ea2417a6cdb4d,meliá tapas,Berlin,Friedrichstraße 103,,,NONE,1,overpass_osm,WEBSITE_UNAVAILABLE,2026-09-01 18:48:15
 dff5313c1abebec7,mini.mal,Berlin,"Rigaer Straße 31, 10247 Berlin",https://www.birgit.club/minimal,,,1,overpass_osm,,
 1196a69dd3f976e1,multilayerladen,Berlin,"Adalbertstraße 4, 10999 Berlin",,,,1,overpass_osm,,
 ba2151a289e1a2ef,plan B,Berlin,"Wilhelmstraße 144, 13595 Berlin",http://www.planb-wohnzimmer.de,,NONE,1,overpass_osm,NO_MENU_FOUND,2026-09-01 18:28:54
