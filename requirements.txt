@@ -1,0 +1,10 @@
+requests>=2.31
+beautifulsoup4>=4.12
+pyyaml>=6.0
+pypdf>=4.0
+pytest>=8.0
+
+# Optional: only needed if you enable the Playwright fallback for
+# JS-rendered sites in src/enrichment/menu_crawler.py. Uncomment and run
+# `playwright install chromium` if you turn that on.
+# playwright>=1.44
