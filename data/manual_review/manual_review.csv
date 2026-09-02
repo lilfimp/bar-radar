@@ -637,3 +637,71 @@ a4de1dc6-06cb-4e0c-a4f4-d0ac99313de2,MENU,No menu-like links found on site,2026-
 e4280603-6f1e-4fc2-9f94-9f0cc9cd582e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,3f3c11d155501b7b,Zint Tönnes,Cologne,,
 8466ad7f-1373-4a8f-bfa9-fe880e8de005,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,1d57b5f6ad5f4c60,Tennessee Bar,Cologne,,
 49f9faca-bd70-45e9-a4ab-89a0092e6717,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,4ad999997f41001b,Worringen Oriental,Cologne,,
+f7796f81-28e0-4470-a5bd-dc36d5c12c87,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:10:49,18bf4f73551b2f94,Basils,Cologne,,
+c449d75f-0443-45a6-9361-bfd87455984e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:10:49,1619327870914494,Rakete,Cologne,"Baudriplatz 2, 50733 Köln",
+4b97a107-b9ad-4bbd-a563-6050d3b89fa2,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:10:56,265a7ff196d54aaf,Fusswinkel,Cologne,,
+27320ace-e8d5-4d05-81dd-3c5463801be3,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:10:57,4b8aafb68be39d9d,Op d'r Eck,Cologne,,
+0634182d-0621-46b2-8724-6c01bfe07854,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:10:58,820f2a14153187dd,Markt-Klause,Cologne,,
+62d5b18e-fff2-4d9a-8800-6a9332b0ac6a,WEBSITE,website_status=BLOCKED,2026-09-02 16:10:58,38af5784c4a2e24f,Alt Neppes,Cologne,Neusser Straße 301,https://alt-neppes.geo.io/
+90f69751-4d11-4081-a5cd-20ffe2bc7cce,MENU,Candidates found but none validated,2026-09-02 16:11:22,cbd9c10ff018ca9c,Hängende Gärten von Ehrenfeld,Cologne,"Vogelsanger Straße 140, 50823 Köln",http://www.haengendegaerten.de/
+3aef5574-f4b3-4270-9e4b-8a0205e777b7,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:11:22,41190b16b18f6178,Zum Krug,Cologne,,
+80e05454-07ad-4d20-9736-76cc7c109132,MENU,Candidates found but none validated,2026-09-02 16:12:14,1a983ae8f40b0360,Die Breddoille Weinbar,Cologne,,https://www.die-bredouille.de/
+52c101aa-b97d-4ef8-9e02-2564d760aceb,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:14,e712470189ae9ec5,Monkeys,Cologne,,
+aac21376-4490-4de4-a3fe-2bc7a12f00a3,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:14,5ef90f0af70ab618,Umbruch,Cologne,"Zülpicher Straße 11, 50674 Köln",
+30db2b14-338a-4cc4-8782-20427a7b18ed,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:15,4d77d14384cb4f57,Brauhaus Pütz,Cologne,"Engelbertstraße 67, 50674 Köln",
+31760fb5-ac67-4d9f-8372-98f970a9d59e,MENU,No menu-like links found on site,2026-09-02 16:12:27,3a86ef7de5f3b281,Stiefel,Cologne,"Zülpicher Straße 18, 50674 Köln",https://stiefelkneipe.de
+8adc8bff-588b-4bf4-8c41-d81c1bce9a14,MENU,No menu-like links found on site,2026-09-02 16:12:40,b2454605b39a9586,Massimo,Cologne,"Alteburger Straße 41, 50678 Köln",https://www.rosticceria-massimo.de/
+d4bc1149-6453-40d2-baf3-3377d44ffc56,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:40,24068a607424b746,Metronom,Cologne,"Weyerstraße 59,  Köln",
+a82cf70e-13e1-4737-8b1a-19531e99850d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:40,160ceb698c9efb0f,Backes,Cologne,"Darmstädter Straße 6,  Köln",
+b21f165c-1589-4116-bd7a-587690d5dec0,MENU,Candidates found but none validated,2026-09-02 16:12:43,adeb33299fa74932,Zum Kornbrenner,Cologne,"Neusser Straße 171, 50733 Köln",https://www.zumkornbrenner.koeln/
+09ceb770-c515-4228-8e1f-33d15cabfea5,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:43,6b895c4714e58e31,Cubana,Cologne,"Barbarossaplatz 5, 50674 Köln",
+abdf983d-6cd9-4e9d-ad58-966eabbb789b,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:43,455695b6d22f3a80,Im Schäfer,Cologne,"Dürener Straße, 50931 Köln",
+63ae47a3-edd5-401f-b7e4-ec1156a043c4,MENU,No menu-like links found on site,2026-09-02 16:12:55,60b6404c5106ab58,Lotta,Cologne,"Kartäuserwall 12, 50678 Köln",https://www.lotta-koeln.de
+597a2b6b-42b6-493d-83e1-4fca4431a9f7,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,cb2c2bd0a69f46c3,Loreley,Cologne,"Lindenstraße 65, 50674 Köln",
+ee8b7edf-566c-4b7a-88a6-bf439d749a8f,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,a7c4c73b4bf4e87e,FC Gildentreff,Cologne,,
+49eaeec3-2150-458a-a1a8-8d7837e21a5e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,fc9daac935342fdf,Alt-Buchheim,Cologne,,
+1427155f-89f3-4504-8a45-3de369b3c1c0,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,97aa68ed998e852d,Os Conquistadores,Cologne,,
+9e129d26-9879-4d7f-a5d5-c852351f9b38,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,b874bcc4374ddd77,Havana,Cologne,Neusser Straße 41,
+4c957db2-814e-4df1-92f5-9d8a5cf58010,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,9bc5a99a45730dbc,Schänke Dezernat 90,Cologne,"Johannisstraße 30, 50668 Cologne",
+c3952d46-2a08-46a8-ac9a-29376f4f0dfe,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,acfac1f772513403,Haus Knüsener,Cologne,,
+bf7dc3d3-d772-44f2-9bb0-a8afabdba41d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,a579d80e19a86c39,Gaffelstübchen,Cologne,"Im Weidenbruch 205, 51061 Köln",
+71f80748-2107-43f2-9b19-9175847056ec,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,210368875e81d4ed,Low Budget,Cologne,"Aachener Straße 47, 50674 Köln",
+3f4101f5-b02e-4f99-9b62-9de7e7414ed7,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:12:55,dfc02c5535355f9a,Six Pack,Cologne,"Aachener Straße 33, 50674 Köln",
+4ae8655b-380c-4446-ba73-2600d31ab465,MENU,No menu-like links found on site,2026-09-02 16:13:08,2ad2b6c38b84f366,Furchtbar,Cologne,"Kyffhäuserstraße 24, 50674 Köln",https://www.furchtbar.de/
+7445e375-36b4-4c03-a7dc-070a977c91cc,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,b1563b19ad7b40c7,Waldstube,Cologne,,
+bce94b9a-da7e-476a-a37a-fe91ad6e0032,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,00c21d7660eed633,Hirtsiefer Hof,Cologne,,
+912e2991-213a-42a5-8862-7b7a965f5f00,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,febb1410e3f2346f,Brauhaus zur Schreckenskammer,Cologne,"Ursulagartenstraße 11-15, 50668 Köln",
+d8c09042-3b8c-42e7-a20a-1eee71833459,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,ece2d1fa9bab8d0b,Sadie's Irish Pub,Cologne,,
+e84f1200-acb3-4264-83e7-b7090f61ba88,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,67052a3192b6bed5,Nordschänke,Cologne,"Berliner Straße 137, 51063 Köln",
+f4b37bed-90ca-4925-8722-feb1d8e6cec4,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,ba835ed7e780580a,Zum Schützenhof,Cologne,"Berliner Straße 43, 51063 Köln",
+88be1e54-1130-4614-8eea-93b3456454da,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,e31cbe7772a05b27,Am Wiener Platz,Cologne,,
+6571bb08-f20c-4255-827e-921624024de0,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,12fbf36ac0caa66a,Belz Bierstuben,Cologne,"Adamsstraße 1, 51063 Köln",
+8a356607-3942-40ae-ab76-031f15189b33,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,d5033e4a1ac6d8a5,Zur Post,Cologne,"Adamsstraße 22, 51063 Köln",
+50569bd2-1f0e-4756-a17e-7b18310bb643,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,b09eb17fb96dbf7c,Bei İSİ,Cologne,"Berliner Straße 27, 51063 Köln",
+83c199c3-8938-48ba-9448-f5fc350ed32d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:08,a6aa4231306353ba,Dorfstube,Cologne,,
+ac431312-addc-4b69-bd5c-8e2012bbacd1,MENU,No menu-like links found on site,2026-09-02 16:13:23,6dcad5063f678aee,Südkurve,Cologne,"Luxemburger Straße 228, 50937 Köln",https://www.koelner-suedkurve.de/
+48fcfe55-1bf3-4167-8a7f-67b70c786f0c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:23,b4bcb1ea4ac0124e,Lux,Cologne,,
+83faa21a-33bc-4157-9d07-9b2bbe5de5d6,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:23,417afe730e3afa0d,Kleine Freiheit,Cologne,,
+09c537c2-51bc-4a2e-9c18-164cf699d19d,MENU,No menu-like links found on site,2026-09-02 16:13:36,2edaffa927295099,Tankstelle Köln,Cologne,"Kyffhäuserstraße 19, 50674 Köln",https://www.tankstelle-koeln.de/
+0a636ffb-9869-4404-a26a-4d2cf4d9d23d,MENU,Candidates found but none validated,2026-09-02 16:13:53,c661c58cad557222,Gilbert's Pinte,Cologne,,http://gilbertspinte.de
+051a9284-5252-4a64-9386-491679aee053,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:53,7f2f1be2e522155f,Reissdorf am Brunnen,Cologne,,
+3b849812-ff2c-475a-9205-9abae124eb51,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:53,2cfcb3436ec8a847,Senn,Cologne,", 50937 Cologne",
+b3875020-2df1-4c8b-8d2a-f427a9aa5a08,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:13:53,49d1f3103fe7e324,Roter Platz,Cologne,"Zülpicher Platz 11, 50674 Köln",
+47996542-36c4-4b3a-9d6d-01c81e150c05,MENU,No menu-like links found on site,2026-09-02 16:14:06,64539d22923e8de7,1460,Cologne,,https://www.14hundert60.de/
+365ddbeb-52fc-4166-aa11-8c528408f428,MENU,No menu-like links found on site,2026-09-02 16:14:25,7d7c73863f0d6f72,Em drügge Pitter,Cologne,"Venloer Straße 216, 50825 Köln",https://edp-koeln.de/
+aa6a3612-f32c-4fef-a1f7-ecaed9fdd7b6,MENU,No menu-like links found on site,2026-09-02 16:14:44,4f6bb025c72c9fae,Eventgewölbe Köln,Cologne,"Pipinstraße 9, 50667 Köln",https://eventgewoelbe.koeln
+fc01862d-0626-4cd6-823c-876a726e0590,MENU,No menu-like links found on site,2026-09-02 16:15:13,1986d1357c23bad2,Baustelle 4U,Cologne,"Vor St. Martin 12, 50667 Köln",https://www.baustelle4u.de/
+d72280ac-f358-45cf-8681-7cfafa20ab26,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:15:13,26d6aabb27522148,Bei d'r Bunn,Cologne,Sebastianstraße 168,
+210460bb-2bca-40e3-94d3-480fe298ce8a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:15:14,8356a81ae574c427,Sprudl & Mett,Frankfurt,,
+8d72e1bb-9210-4446-8bef-a40c2ef67252,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:15:22,08ce1b4aaae64bd7,Endstation 148,Frankfurt,"Ginnheimer Landstraße 148, 60431 Frankfurt am Main",
+54e12b9b-bacd-4718-867d-51f9068da70e,MENU,No menu-like links found on site,2026-09-02 16:15:34,62c6ceb31245a3df,Bootshaus YACHTKLUB,Frankfurt,"Deutschherrnufer, 60594 Frankfurt am Main",http://www.yachtklub.org
+c3e121ad-5769-4f81-bed1-fbe289b42216,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:15:34,425bbeb4df0ad283,Reh Zwanzig,Frankfurt,,
+f2d78ea0-4e0f-4700-af03-1b2e5978803a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:15:34,141902270cfca75c,Sporteck,Frankfurt,,
+a51a662f-1c6a-4810-af18-7af7fa417ecf,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:03,de6d983fefdf0ad0,#Wallstreet Frankfurt,Frankfurt,"Berger Straße 83, 60316 Frankfurt am Main",
+3e7cf91f-83b2-469a-a9d9-fd58592044b5,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:03,a89009487e980807,Bonne Chance,Frankfurt,,
+a0a7aebe-1e76-441a-80a8-7d6751e076e2,MENU,No menu-like links found on site,2026-09-02 16:16:16,b09b1a492f1a978e,Gaststätte Moseleck,Frankfurt,"Moselstraße 21, 60329 Frankfurt am Main",http://www.moseleck-ffm.de/
+46a5b52c-9eb9-4953-8a63-28f2566ebca9,MENU,Low confidence (0.4),2026-09-02 16:16:31,f0f03d705f548cb6,New Rose,Frankfurt,,https://newrosefrankfurt.de/
+f5e4c485-5ecf-477f-ae66-2496e54b4bac,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:31,0ee99f74a5fc8e75,Zur Post,Frankfurt,"Willibrachtstraße 1, 60431 Frankfurt am Main",
+4e2d70ff-93e3-49c8-b1f1-5991d5b044a9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:31,d3c17e16e4587d7f,Baile Bar,Frankfurt,,
+af779231-42a4-4aa2-92e6-00b045138d8c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:31,93f385bf94e4f6a9,Volkswirtschaft,Frankfurt,"Jordanstraße 13, 60486 Frankfurt am Main",
+db9ba48b-c999-4a22-96b0-008658887cec,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:31,43ecc674ba151ca1,Bockenheimer Weinkontor,Frankfurt,,
