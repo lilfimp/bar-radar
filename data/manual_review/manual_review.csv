@@ -564,3 +564,76 @@ cee4c53e-02ab-4de6-bcd9-6f1b1020fe8a,WEBSITE,website_status=UNAVAILABLE,2026-09-
 658f6d25-e223-46f7-8b83-826c83f0d22e,MENU,Low confidence (0.5),2026-09-02 08:19:52,375fbf656396bad3,Der kleine Kranich,Munich,"Neureutherstraße 21, 80799 München",https://derkleinekranich.de/
 8489b3f8-45f3-4260-8da1-eef404354586,WEBSITE,website_status=UNAVAILABLE,2026-09-02 08:19:52,115a3f7817102108,Irmgard Stüberl,Munich,"Milbertshofener Straße 29,  München",
 a3cbd409-aa79-407d-b9e3-fa1f1078a789,WEBSITE,website_status=UNAVAILABLE,2026-09-02 08:19:52,fb35a875261dd63f,Zur Glocke,Munich,,
+608badc3-3c89-450d-9147-8e1e1a2b7977,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:12:55,5e58a31910aa4a67,Die Kneipe 80,Munich,"Fraunhoferstraße 19, 80469 München",
+36b7c7c9-3593-47de-b4a0-64038810829b,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:12:56,345db122c90a88aa,Isarflimmern,Munich,"Fallstraße 24, 81369 München",
+4a2aa2a1-b9e1-444c-9088-27d14511b2d5,MENU,No menu-like links found on site,2026-09-02 12:13:08,e045b6004afbd8bb,Brandner Kaspar,Munich,"Sommerstraße 39, 81543 München",http://www.brandnerkaspar.de/
+c33cf0ba-9082-4d75-b28c-18a2980cd4e4,MENU,Candidates found but none validated,2026-09-02 12:13:35,885a38277df0b7c3,Green Room,Munich,"Leopoldstraße 13, 80802 München",https://greenroom-bar.de/
+1cf6a466-ce74-4693-bc9d-06c3a956c534,MENU,Candidates found but none validated,2026-09-02 12:13:47,2c9a21906362dd6d,Substanz,Munich,"Ruppertstraße 28, 80337 München",https://substanz-club.com/
+b42d6db1-89bd-4486-acc2-b1189d28f353,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:14:01,2548afaa4eceae71,American Bar,Munich,,
+d2368a08-1437-4832-bfb4-96b496ffd31a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:14:02,a1d5f296fb458882,Gaststätte Mittersendling,Munich,,
+0a39bb1e-5473-4486-8b2c-89fc4454f124,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:14:03,245e994099c91226,bei Vaia,Munich,"Ruppertstraße 30, 80337 München",
+30fe1a6f-c829-4891-93ed-3d69c69e2330,MENU,Candidates found but none validated,2026-09-02 12:14:31,af86814bc10631c5,Münchner Bier,Munich,,https://www.viktualienmarkt-muenchen.de/biergarten/
+1ff813ca-02ef-4ce4-afde-f8b3395fba15,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:14:31,ab01c51a1b867fe0,Kathi's Quelle,Munich,"Wasserburger Landstraße 108, 81827 München",
+4ec8e9f0-25af-428e-84fe-a70c9f65aa30,MENU,No menu-like links found on site,2026-09-02 12:14:43,ba48deca26264421,Peppermint Lounge,Munich,"Wasserburger Landstraße 108, 81827 München",https://www.peppermint-lounge.de
+0162d58d-9432-4a9c-9d8f-d26a205e805f,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:14:43,a26efef852c593b6,Kleine Rose,Munich,Gaßnerstraße 3,
+c106c022-bb7b-444f-b331-b7513b4be442,MENU,Candidates found but none validated,2026-09-02 12:14:57,ce8c8f01002f600d,Stazione di Aperitivo,Munich,"Kaufingerstraße 5, 80331 München",https://stazionediaperitivo.bar
+665670b7-d600-4597-a93d-d9d32bb2d6ce,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:14:57,71216f1dbc6466dd,Crönlein,Munich,"Am Nockherberg 8, 81541 München",
+bdf62ba9-8464-44ae-b060-a56915250b2b,MENU,No menu-like links found on site,2026-09-02 12:15:09,8682690015995086,Cabane,Munich,"Theresienstraße 40, 80333 München",http://www.cabanebar.de/
+e5ac7cd9-a9bc-4e72-aa9c-7a95312073bf,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:15:09,d841cd77a1b32eb6,Giasinga Schlümpfe,Munich,Humboldtstraße 12,
+2cd45f97-04ca-4228-86d3-ab66714d36c9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:15:09,2189c68c279e491b,Route 51,Munich,,
+3d63e67d-f71a-4b14-800e-d9dce347fcbb,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:15:09,737d9fab1e6dc6cc,Nymphenburger Bistro,Munich,"Wotanstraße 89, 80639 München",
+f63c30c9-9f6b-48ab-9497-b4cb2cbbbee7,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:15:09,e2e887f8954ebea4,Orange,Munich,,
+862dda1b-7ee6-4a74-9bd0-9e475782a53a,MENU,No menu-like links found on site,2026-09-02 12:15:22,b918bf3f750e000a,Ned Kelly's,Munich,"Frauenplatz 11, 80331 München",https://nedkellysbar.de/
+b64825fa-35b1-40ce-9238-664463a08796,MENU,Candidates found but none validated,2026-09-02 12:15:32,72a6af519d16d8d3,Giesinger Stehausschank,Munich,"Sendlinger-Tor-Platz 10, 80336 München",https://giesinger-braeu.de/pages/stehausschanke
+0188ec6e-d437-4192-8ca1-b4ec328fb961,MENU,No menu-like links found on site,2026-09-02 12:15:56,f642a71cf48bc790,Patolli,Munich,"Sendlinger Straße 62, 80331 München",https://patolli.net/
+16b03dad-4789-4403-b34a-d177e44ffbc8,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:15:56,cd9ce0bfa0a658b6,Tini's,Munich,,
+a3b63b2c-f303-4e63-b5eb-e25edfe39e27,MENU,Candidates found but none validated,2026-09-02 12:16:09,c3914d9690d5de4c,Abseits,Munich,"Marktstraße 3, 80802 München",https://www.abseits-rockbar.de/
+bba345c5-7699-4135-b273-2ef129672f4d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:09,a4594a8f359de13d,Pils- & Cocktailbar HappyCorner,Munich,"Franz-Marc-Straße 10, 80637 München",
+6201f05c-7437-496b-99bf-190494c4606e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:09,dbd4fbfe1fea79d3,Südstadt,Munich,"Thalkirchner Straße 29, 80337 München",
+be380f0d-7346-4561-a130-fefa72bff8f3,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:09,11a28107a04df14c,Late Nights,Munich,,
+f0a09ea1-240f-4902-b413-d83bb74f087c,MENU,Candidates found but none validated,2026-09-02 12:16:15,f560c56fe0861727,Kongressbar,Munich,"Theresienhöhe 15, 80339 München",https://kongressbar.de/
+01323440-6b1f-4629-ba42-fa955ffa481d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:15,d93afbe576b5e460,Försterstube,Cologne,,
+6daafdff-32a9-47ff-830b-733e35af022c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:15,ff4db06cd024a86f,Fridolin-Eck,Cologne,,
+8789fe76-fbe6-4141-8ebf-cc28c64cc19e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:15,86856ad6d29321b2,Schäfer's Eck,Cologne,,
+5c9003da-a248-4b5f-8744-5778ec12af8b,MENU,No menu-like links found on site,2026-09-02 12:16:36,28db4bd56275df77,Müllers Ehrenfeld,Cologne,"Subbelrather Straße 159, 50823 Köln",https://muellers.koeln/
+04b6df62-c9bc-45c5-a4a0-af89d0c99831,MENU,Low confidence (0.4),2026-09-02 12:16:40,3780891b29b48ff7,Zimmermanns Jassweetschaff,Cologne,"Subbelrather Straße 543, 50827 Köln",https://zimmermannskoeln.com/
+975f9b29-2c28-4b7d-9a6d-88c251560729,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,6f6e009d3cb2ad68,Meisenklause,Cologne,,
+bdc57813-606d-4ec2-9a4f-1ba1d4c8757a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,da2438c85b21d86a,Zwitscherhäuschen,Cologne,,
+56b83612-ca08-4406-8756-c8fba82ecc6d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,e08259e904d0d1ac,Ossendorfer-Stübchen,Cologne,,
+bf5e9c33-fefe-40d5-9b95-06eaedd2c573,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,8d63128e7e30a994,zum Denkmal,Cologne,", 50733 Cologne",
+b6e80c8a-29e3-4a81-a5c0-17769fd55956,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,2b8ee4b7d53cb432,Im Rondellchen,Cologne,"Akazienweg 54 a, 50827 Köln",
+30501b6c-71f3-4f92-a173-c39489b55af2,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,2790602845a4bcbf,Iltis-Eck,Cologne,,
+23edf07b-6331-4a07-8eda-8e3a670fdef3,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,8f5fa4ae5a893e9a,Bierstübchen Terasse,Cologne,,
+d8ec9ae9-ff2f-4ad6-a4f3-1b529dc28e51,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,d6cbb1fbb77d3b95,Marcel‘s,Cologne,,
+a99f78cb-64f5-4f25-b0e8-09e02998ed7d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,53d0683c3c934ec7,zum Backstein,Cologne,,
+10771c9a-2444-47a5-a743-e6c5d0082287,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:40,8f93746111973de7,"""L""",Cologne,,
+381749ff-4a97-4586-836b-3a3bc72316f0,MENU,Candidates found but none validated,2026-09-02 12:16:43,66a253cb66a5f1c4,Trink-Genossin,Cologne,,https://trink-genosse.de/
+b2f51c6f-4a39-44f3-87b9-b1b7681eb4b5,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:43,6ade07095281a50e,op d'r Höh,Cologne,"Sandweg 112, 50827 Köln",
+5615cba9-f053-46da-b75f-0a92da505e1c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:43,4583d771e741efb7,em Kölsche Klüngel,Cologne,Venloer Straße 696,
+3caa5d44-b088-43d4-9f68-6416c56d5480,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:43,ea06f3b99216ac2d,Zum Alibi,Cologne,"Hackländerstraße 31, 50825 Köln",
+b0e427aa-b9da-47de-ae53-b4a0cb680818,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:43,308d0ff16681dd4a,EhrenGarten,Cologne,Subbelrather Straße 363,
+e2c7d19f-a53c-4353-9255-5227719c0f09,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:43,a479a9a4dbd0f9b3,Ihrefelder Eck,Cologne,"Subbelrather Straße 349, 50825 Köln",
+5653c516-3007-41ed-9e8d-ee43a70237bc,MENU,No menu-like links found on site,2026-09-02 12:16:55,e5979e5ef1201b0c,meyers,Cologne,"Subbelrather Straße 329, 50825 Köln",https://www.meyers-ehrenfeld.de/
+ede38264-d708-494e-83af-eb5e5e591637,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:55,f300880d641af51d,Haus Thomas,Cologne,,
+3de6ddbc-2979-42ca-b3fa-57fb877f395f,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:55,38ac6fd406a49885,em Övvje,Cologne,"Hauptstraße 15, 50859 Köln",
+d8b7d00d-1a1c-4d5c-b0a4-96f0b66d8570,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:55,b41db9d56e105d1b,Tennis-Klause,Cologne,,
+22b5456a-f4d8-45e8-ac87-7876917c854d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:55,de99ed7bacee4887,Beim Dörfer,Cologne,,
+3fb2c32f-6819-488a-9731-6cae003748d1,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:55,03fba1dc346f34df,Taverne im Pohlhof,Cologne,,
+f6e50de9-7fb4-4b54-a089-1cbaf148afc9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:16:55,870e45d5f4d83ecd,"Gasthaus ""Laternchen""",Cologne,,
+317298a8-459a-4be9-b40e-ccef67e46685,MENU,Low confidence (0.5),2026-09-02 12:17:01,37be51c432345c93,Brauhaus ohne Namen,Cologne,Mathildenstraße 42,https://www.brauhaus-ohne-namen.de/
+0b460a4f-30a1-4037-8fc4-a33e6b0f8769,MENU,No menu-like links found on site,2026-09-02 12:17:14,dede965e78d95923,Lommerzheim,Cologne,"Siegesstraße 18, 50679 Köln",https://www.lommerzheim.koeln/
+a3e7f004-efaa-49b1-b462-018e0a120f0c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:14,6384c12dbe639802,Relax,Cologne,,
+c6e83364-2789-481e-85ec-b8729c2d593c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:14,22f782a16a594ad6,Queens Bar,Cologne,"Am Bilderstöckchen 57, 50739 Köln",
+5759cfd6-53f8-4b2b-84ed-181a627834bf,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:14,82cb16088c03c5fe,Gaststätte Siegfriedhof,Cologne,"Neue Kempener Straße 255, 50739 Köln",
+6d7ea8ff-fca4-40cf-ace4-ec04d08f1e25,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:14,d65cc3ac0d07b6ec,Alt Longerich,Cologne,,
+bfa248f8-7bb1-45fc-9a98-40700ace0e33,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:14,3c0e6f3315a14434,Vintage54,Cologne,", 50733 Cologne",
+a4de1dc6-06cb-4e0c-a4f4-d0ac99313de2,MENU,No menu-like links found on site,2026-09-02 12:17:26,533a858784598dcf,Zwergnase,Cologne,"Altonaer Straße 30, 50737 Köln",https://www.zwergnase-koeln.de/
+76659833-a779-4707-8bfe-707535a80984,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:26,a97d5cb791040bcb,Siedlerklause,Cologne,,
+14df61f6-0f4f-4295-bc36-acfcefa492d6,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:26,78c2eeb66a5fd2a2,Zum Treppchen,Cologne,Merkenicher Hauptstraße 136,
+98974911-7d76-47be-b5b2-3d57d93fd176,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:26,5cb06c36db3034eb,Zur Post,Cologne,,
+0d8c05ae-0401-4f93-9c8a-f9f8dca4eb77,MENU,Low confidence (0.5),2026-09-02 12:17:28,cb05d9ea126a4c70,Bar Botanik,Cologne,,https://www.wasserturm-hotel-cologne.com/de/bar-botanik
+7481f034-fd8f-499c-af84-af7959e52ed6,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,d1827f3af129a420,Pütz,Cologne,,http://www.xn--ptz-bistro-9db.de/
+8db79daa-3621-470f-85b2-83b819d6f4ce,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,3aebdc5bc5fc9359,Kreins,Cologne,"Vitalisstraße 303, 50933 Köln",
+e4280603-6f1e-4fc2-9f94-9f0cc9cd582e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,3f3c11d155501b7b,Zint Tönnes,Cologne,,
+8466ad7f-1373-4a8f-bfa9-fe880e8de005,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,1d57b5f6ad5f4c60,Tennessee Bar,Cologne,,
+49f9faca-bd70-45e9-a4ab-89a0092e6717,WEBSITE,website_status=UNAVAILABLE,2026-09-02 12:17:28,4ad999997f41001b,Worringen Oriental,Cologne,,
