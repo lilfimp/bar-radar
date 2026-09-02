@@ -705,3 +705,73 @@ f5e4c485-5ecf-477f-ae66-2496e54b4bac,WEBSITE,website_status=UNAVAILABLE,2026-09-
 4e2d70ff-93e3-49c8-b1f1-5991d5b044a9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:31,d3c17e16e4587d7f,Baile Bar,Frankfurt,,
 af779231-42a4-4aa2-92e6-00b045138d8c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:31,93f385bf94e4f6a9,Volkswirtschaft,Frankfurt,"Jordanstraße 13, 60486 Frankfurt am Main",
 db9ba48b-c999-4a22-96b0-008658887cec,WEBSITE,website_status=UNAVAILABLE,2026-09-02 16:16:31,43ecc674ba151ca1,Bockenheimer Weinkontor,Frankfurt,,
+f45ebfbd-3614-4307-aa62-e75cd0960847,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:42,a2a7460af603d921,Zum Tannenbaum,Frankfurt,,
+cd04cc0a-3c93-4f06-93da-85b092f3ebc4,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:42,52c8f4c621fe2c28,Lucky's Frankfurt,Frankfurt,"Große Friedberger Straße 26, 60313 Frankfurt am Main",http://www.luckys-manhattan.com/
+05aa3ee5-5be5-4c82-8220-ac157135bbed,MENU,No menu-like links found on site,2026-09-02 20:09:55,889a373dd4eb2e20,Zum Schwejk,Frankfurt,,http://www.schwejk-frankfurt.de
+86f0fd45-74c7-40cc-b76e-7ba37d0869f1,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:55,efdda5213d90344c,Central,Frankfurt,,
+7a66b4f4-88c9-4c22-b542-f189cf05ad14,WEBSITE,website_status=BLOCKED,2026-09-02 20:09:55,3c9325c00d3e9b5a,Stall,Frankfurt,"Stiftstraße 22, 60313 Frankfurt am Main",https://www.stall-frankfurt.com
+b13347b8-fa25-4ddf-8ac4-bb6160aec7aa,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:56,150b741b31c45ee0,Bei Susanne,Frankfurt,,
+2620ff34-8171-4ace-a3e6-82155820d80f,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:57,623ca35ea1f7f702,Zur Pilsstube,Frankfurt,,
+667f90d8-b46f-4030-920a-9aef1fe7f635,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,a2e68b7da535bbdc,Salon Jale,Frankfurt,,
+1637b943-a51c-40d2-b2ee-b1b5336b420a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,00f01f163ca01a8e,Plateau,Frankfurt,,
+737f4ce8-bf2a-464f-94e6-f307c917f1dc,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,ff0dce8fc6ca4c6d,Alte Kneipe,Frankfurt,,
+6e247377-a785-4fff-b8c6-8edc573eea3e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,0b8049154c707c6a,Klapper 33,Frankfurt,,
+a1de85c7-a07f-40da-b408-952b273d265c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,9f1dcd6dd7c27d71,Eiserner Hahn,Frankfurt,,
+8c38dab6-44c9-4f5b-b40c-38e4835f3038,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,1829035400cf8301,Long Island Cocktailbar,Frankfurt,,
+85b0d8d9-9c1e-4148-a8b5-ad1caad97fb2,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,48a27be24e7a443d,Crazy Music Barr,Frankfurt,,
+84147914-72a1-4235-81a8-ca2d70b6422a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,a0a5e585049f5b83,Tropical,Frankfurt,,
+afb37849-43f7-43bd-b1f8-6edfc0199f0e,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,ccf5391e9e56f8e8,Cubanitas Cocktailbar,Frankfurt,,
+a3cf209c-3ef4-457b-9738-3450c7b76152,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,33e033eafcb2fa49,Crazy,Frankfurt,,
+f3d244f7-cdfc-4512-8d68-8e67833ef922,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,c42fdfb767750925,The Anglo Irish,Frankfurt,,
+7753df9e-e0d9-4dff-8462-bb92d19b6980,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,00a420827698e426,The Rock Times,Frankfurt,,
+df861d4d-b8f9-415b-96b4-b4a1d2c1277c,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,1a7d193d04201bb6,Altes Haus,Frankfurt,,
+c69a731b-6761-4b40-847d-7a06a621bd1a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,8853136a7a3df7c1,Fenstergucker,Frankfurt,,
+1099258e-bb83-4b47-b40c-bc08d9ebbe02,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,53a1832e95d292fd,Mezze & More,Frankfurt,,
+26d5d8bf-9514-4f52-89ac-9f7f92570eba,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,939e6a79b086b453,The Drinksmith Neighbourhood Bar,Frankfurt,"Wallstraße 14, 60594 Frankfurt am Main",
+da77c1b5-5986-45b8-b608-9b94cf00e4bb,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:09:58,3fb26c780e330d03,Memory Bar,Frankfurt,"Adalbertstraße 4, 60486 Frankfurt am Main",
+a1c63c5a-288b-4540-9348-6ef6249b6037,MENU,Candidates found but none validated,2026-09-02 20:10:04,f809ab4702ad1879,Park Avenue,Frankfurt,,https://park-avenue-frankfurt.de/
+64302a18-f014-426a-a5e2-eddc646ae15b,MENU,Candidates found but none validated,2026-09-02 20:10:37,94b6ffccc2a01462,Irish Pub Bornheim,Frankfurt,"Berger Straße 255, 60385 Frankfurt am Main",http://www.irishpubbornheim.com/
+db8786d4-3d64-4705-8368-d3946b43afe6,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:37,e4ee15d65dbc0357,Eppstein Eck,Frankfurt,,
+8f21e3db-61eb-40c5-acfa-a72bea4e19fb,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:37,7311c00087037ed1,Binding'sche,Frankfurt,,
+537972b3-bc40-4d23-8332-5dda3b33ec4a,MENU,Candidates found but none validated,2026-09-02 20:10:51,d8401c0425826568,The Fox and Hound,Frankfurt,"Niedenau 2, 60325 Frankfurt am Main",https://www.foxpub.de/
+6e92b322-6c7c-4ea3-b5b7-fffe7881757d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:51,9fb2514769e1a52f,Kaibo 75 Wein Bier Häppchen,Frankfurt,,
+0e192230-de3a-4cb3-9891-95f98a4b8c51,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:51,9f5b2c31bb0ec525,Oeserklause,Frankfurt,,
+ee616e4c-e8e7-48b7-a198-2aa1b77b6e71,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:51,95a142f03c26f2be,Marketenderin,Frankfurt,,
+9a6ff9d8-e545-42be-bfee-70cce2025950,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:51,42a5a6e2705f5076,Dampflock Pilsstube,Frankfurt,,
+6d2ec2fc-1fb9-4656-9b52-e1ae274c4d74,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:51,623562294c4f5c90,Ania's Treff,Frankfurt,Töngesgasse,
+8e983422-a9e0-4e8b-965b-850214ef90fa,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:55,cbe20c4b163a1c46,Storchenstübchen,Frankfurt,,
+f00026db-0930-45af-a994-b06137bd5a0f,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:55,c4946eaf11cfcf2b,My Lounge,Frankfurt,"Triftstraße 16, 60528 Frankfurt am Main",
+3096d17f-18dc-42c8-ac0b-544ec3fa1b1d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:55,094eafbe2d55dfe6,Birmingham Pub,Frankfurt,"Battonnstraße 50, 60311 Frankfurt am Main",
+1535cdbe-ac87-49c8-acf0-476a27a99943,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:10:55,d0c0c76d3f5c7e73,Eckhaus,Frankfurt,,
+77250a6b-e640-49df-bc6c-1186b7633761,MENU,Candidates found but none validated,2026-09-02 20:11:19,3a29d2640aa95a01,Rot & Vogel Feines Trinken,Frankfurt,"Rotlintstraße 28, 60316 Frankfurt am Main",https://www.rotundvogel-frankfurt.de
+69fe586e-ee71-4dfd-83a0-610a9265ca4d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:11:19,0efc3a798ef220de,Aruba,Frankfurt,"Mainzer Landstraße 269, 60326 Frankfurt am Main",
+3e2cb3fe-02f6-455d-bf55-4904ff4275d9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:11:19,17d3d28bbed24c89,Antony´s,Frankfurt,"Berger Straße 14, 60316 Frankfurt am Main",
+8feb6fbe-c275-4206-a8f2-00e103ac8852,MENU,No menu-like links found on site,2026-09-02 20:12:03,3f2d5f7c417c14ed,Gute Stute,Frankfurt,"Kölner Straße 42, 60327 Frankfurt am Main",https://gute-stute.com/
+e011a73c-3b4b-4ab0-8c01-4c08e7ebf22d,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:12:03,2ddff8c26137cff9,Viva,Frankfurt,,
+25681b96-9b20-4382-bfb2-7dc6d58e33bd,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:12:03,82b7ab83a69b1ed0,King,Frankfurt,"Zum Linnegraben 15, 65933 Frankfurt am Main",
+b6e8f482-ce8a-446a-8a82-6934a49459c6,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:12:03,69e43383499b39a5,Kervan,Frankfurt,,
+75d9f44c-495c-45c7-8aa2-ce3dc397babf,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:12:03,caef4cea3c1c2e75,NachBar,Frankfurt,,
+1e33f66e-5f79-43d1-8eb1-e56f674d67bf,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:12:41,01ac1133d84eaff7,4 Corners,Frankfurt,"Zeil 10, 60313 Frankfurt am Main",http://www.fourcornerspub.de
+6c4f6367-278a-4f79-b073-538aa4e4fb6f,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:12:41,2f1d137598cf9502,Envy,Frankfurt,"Große Bockenheimer Straße 54, 60313 Frankfurt am Main",
+4fccc822-796c-419a-82df-895918cebfd9,MENU,Low confidence (0.4),2026-09-02 20:13:00,0170329e9209be73,Central Park Corner,Frankfurt,"Große Bockenheimer Straße 52, 60313 Frankfurt am Main",https://www.centralparkcorner.de
+7271b563-377f-468e-926e-adbeec14f1fa,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:13:00,362ce35a4804850d,Pilstreff,Frankfurt,,
+b1cba5c6-44a8-492b-b747-67fd42acaf60,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:13:00,10b849aadd6a6b4e,"Alt Eckenheim ""Zum Büro""",Frankfurt,,
+68e81488-8259-47b1-b6b8-9a41c4d9d72a,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:13:00,438ba39ee6ea2c48,Asian Bar,Frankfurt,,
+f8ae1e09-aeae-4663-8314-1da547badc2d,MENU,No menu-like links found on site,2026-09-02 20:13:17,a521be8427c926ce,Panorama Bar,Frankfurt,,https://huber1911.de/locations/panoramabar
+1c7efda5-3700-4a39-b306-9dd8149e6ab9,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:13:17,31831ed98dc41a80,Apfelweinwirtschaft Frank,Frankfurt,,
+06fd0b7c-3fab-4677-8a9a-9bef91aae671,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:13:17,44e37be8f2fd9859,Favorite,Frankfurt,,
+25a1898a-4816-44fb-97aa-7c899fd99de0,WEBSITE,website_status=BLOCKED,2026-09-02 20:13:18,a3cd63526ee45ce0,Trinkhalle,Frankfurt,"Obermainanlage 24, 60314 Frankfurt am Main",http://www.trinkhalle-frankfurt.de/
+dcc991bd-6117-4998-87f5-9db85cfb02d6,MENU,Candidates found but none validated,2026-09-02 20:13:24,ed9a627cd9442d9a,o'reilly's irish pub,Frankfurt,"Am Hauptbahnhof 4, 60329 Frankfurt am Main",https://oreillys.com/frankfurt/
+4d163499-d696-4ef9-8ea8-709d5ba1154d,MENU,No menu-like links found on site,2026-09-02 20:13:36,e1e17c7e35978da2,Bernemer Fass,Frankfurt,"Ringelstraße 23, 60385 Frankfurt am Main",https://www.bernemer-fass.de/
+c9bd38e5-0fb9-40ab-8a90-33e99a682c3d,MENU,No menu-like links found on site,2026-09-02 20:13:48,316a0390cf127a2e,Mosaik Jazz & Chanson,Frankfurt,"Freiligrathstraße 57, 60385 Frankfurt am Main",https://www.mosaik-jazzbar.de/
+cce61cde-a92d-4e2f-b510-18e4ce427ac3,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:13:52,767e71300f2a1a6a,Ha.!-Ka.?,Frankfurt,,
+55066485-4938-4fff-880f-a271d25462ab,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:13:52,fa12eb63e4f6bfa1,Zum Bitburger,Frankfurt,,
+d4a79bab-dfd1-4624-b67b-fa815af5c51e,MENU,Candidates found but none validated,2026-09-02 20:14:07,033b2b11cdb4fdec,Waxy's Irish Pub,Frankfurt,"Taubenstraße 11, 60313 Frankfurt am Main",https://www.waxys.de/
+7a709a17-4097-4f14-b4b1-e734d17471a9,MENU,Candidates found but none validated,2026-09-02 20:14:21,39d1aac6ab4f1143,Dreikönigskeller,Frankfurt,"Färberstraße 71, 60594 Frankfurt am Main",https://www.dreikoenigskeller.eu/
+7ef34bf9-99eb-4648-a505-8b7b0fa4509b,MENU,No menu-like links found on site,2026-09-02 20:14:33,bf9aa367f4c258cc,The Place To Be,Frankfurt,"Weißadlergasse 3, 60311 Frankfurt am Main",http://souper.de/
+5bcb0e83-e697-4bba-9ac9-19d64efd7310,MENU,Candidates found but none validated,2026-09-02 20:14:57,278e42e743b5051a,Lebensfreude Pur,Frankfurt,"Mainkurstraße 19, 60385 Frankfurt am Main",http://lebensfreude-pur.com/
+99f29973-c2a9-49c5-907e-6b244a83bffd,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:14:58,37f75fdfb00b73fa,Déjà Vu - Shisha Lounge,Frankfurt,"Mainkai 10, 60311 Frankfurt",http://dejavu-lounge.de
+27ed249c-ff1c-4555-9396-fdefec27ef10,MENU,Candidates found but none validated,2026-09-02 20:15:18,01587b99eef9d7b5,Diamond Lounge,Frankfurt,"Mainzer Landstraße 412, 60326 Frankfurt am Main",https://diamond-lounge-frankfurt.de/
+348cd7e1-5546-4a97-87bb-9f3e1d1721f3,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:15:18,6490e88357ab29a1,Zur Biertonne,Frankfurt,"Gutleutstraße 139, 60327 Frankfurt am Main",
+c78335ed-30a8-4d4d-9ffc-152c20b8d18b,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:15:18,d648a1ed6f4ba650,Rotaria Shisha Lounge,Frankfurt,"Dreieichstraße 12, 60594 Frankfurt am Main",
+436d51f1-1924-45d5-8334-d184313ec8b4,WEBSITE,website_status=UNAVAILABLE,2026-09-02 20:15:18,39072e746c9a1baf,Alte Turnhalle,Frankfurt,,
